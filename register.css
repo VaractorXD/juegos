@@ -1,0 +1,32 @@
+.uno{
+	color: #11bb11;
+	font:caption;
+	padding-bottom: 0px;
+}
+.dos{
+	background-color: #2e3333;
+	width:220px;
+	height:800px;
+}
+.tres{
+	background-color:#2e3333;
+	color:#115ed2;
+}
+.primeroAH{
+	background-color: #51bacb;
+	width: 1200px;
+	height: 735px
+}
+.form-control{
+	border: 2px solid orange
+}
+h1{
+	background-color: #51bacb
+}
+button{
+	width: 120px;
+	height: 50px
+}
+body{
+	background-color: #7b7b7be0
+}

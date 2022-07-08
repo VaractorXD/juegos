@@ -1,0 +1,66 @@
+.uno{
+	color: #11bb11;
+	font:caption;
+	padding-bottom: 0px;
+}
+.dos{
+	background-color: #2e3333;
+	width:220px;
+	height:1290px;
+}
+.tres{
+	background-color:#2e3333;
+	color:orange;
+	font-family:cursive;
+	padding-left:480px;
+    width:1200px;
+}
+.cuatro{
+    background-color:#688baa;
+}
+
+p{
+	padding-left: 20px
+}
+
+}
+img{
+	opacity: 1;
+   filter: alpha(opacity=50);
+   zoom: 100;
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff9c;
+    border-radius: 39px;
+
+}
+img{
+    padding-left: 85px;
+    padding-right: 95px
+}
+body{
+    background-color: orange;
+}
+img{
+    border-radius: 10000px;
+    width: 350px;
+    margin-bottom:50px;
+}
+.Ah{
+    padding-left: 10px
+}
